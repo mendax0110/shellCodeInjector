@@ -1,0 +1,11 @@
+# Ignore .vscode Folder
+.vscode
+
+# Ignore the .vs Folder
+.vs
+
+# Ignore the .dist Folder
+.dist
+
+# Ignore the build Folder
+build/
